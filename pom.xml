@@ -14,7 +14,11 @@
 		<dependency>
 			<groupId>org.seleniumhq.selenium</groupId>
 			<artifactId>selenium-java</artifactId>
+<<<<<<< HEAD
 			<version>4.12.1</version>
+=======
+			<version>4.11.0</version>
+>>>>>>> e9c21cee583f9eb3d059caad077898802ef9c75e
 		</dependency>
 		<dependency>
 			<groupId>org.testng</groupId>

@@ -1,6 +1,12 @@
 /target/
+<<<<<<< HEAD
 .project
 .classpath
 .settings/
 /reports/
 /test-output/
+=======
+.classpath
+.project
+.settings/
+>>>>>>> e9c21cee583f9eb3d059caad077898802ef9c75e
